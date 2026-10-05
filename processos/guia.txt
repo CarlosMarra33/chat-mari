@@ -1,0 +1,1012 @@
+--- Página 1 ---
+CAPACITAÇÃO 
+SECURITY 
+ANTES DE FAZER QUALQUER DÚVIDA NO MP_SECURITY, FAÇA O FLUXO, PROCURE NAS WIKIs E NOS 
+MATERIAIS DISPONÍVEIS. 
+ 
+Estilo MELI  •  Registro  •  Configuração de Conta  •  KYC  •  PAF  •  Relações entre contas 
+Material editável | Atualizado em 31/08/2026 | XT Mari 
+
+
+--- Página 2 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+Como usar este guia 
+Este documento reúne os materiais da Capacitação - Security em um único lugar. Cada tema começa em 
+uma nova página e mantém seus próprios conceitos, procedimentos, tabelas e imagens para evitar 
+mistura de assuntos. 
+CONSULTA RÁPIDA 
+Use o índice abaixo ou pressione Ctrl + F no Word e pesquise termos como “representante legal”, “nome social”, 
+“Checker”, ou clique onde quer ir no Índice! 😉 
+ 
+ATENÇÃO 
+O material é um apoio operacional. Se houver divergência com uma atualização posterior, siga o procedimento 
+vigente e confirme com a liderança. 
+ 
+Links úteis: 
+●​ Guias de BO (IA para saber sobre documentação e challenge) 
+●​ Wiki de Security (IA dúvidas sobre casos e processos) 
+●​ Wiki do CX News (atualizações e informações sobre processos) 
+●​ Reduzir tamanho do PDF 
+●​ Análises de atendimentos por IA (caso queira checar como foi seu estilo MELI)​
+ 
+ 
+Índice do documento 
+1. Estilo MELI - fases e checklist 
+2. Registro - Pessoa Física e Pessoa Jurídica 
+3. Configuração de Conta - dados e titularidade 
+4. KYC - validações e documentos 
+5. PAF - acesso e fatores 
+6. Relações entre contas 
+ 
+
+
+--- Página 3 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+1. Estilo MELI - fases e checklist 
+Voltar ao índice 
+MÓDULO 01 
+ESTILO MELI 
+Uma lógica de atendimento que combina acolhimento, investigação, orientação clara e fechamento 
+coerente. 
+LOCALIZE RÁPIDO 
+Palavras-chave: boas-vindas • exploração • síntese • guia • encerramento 
+ 
+1.1 Boas-vindas - início do contato 
+•​ Cumprimente usando o nome correto e informe a marca certa: Mercado Livre ou Mercado Pago. 
+•​ Crie conexão com uma pergunta breve e demonstre disponibilidade genuína para ajudar. 
+•​ Se houver contexto anterior, sintetize-o sem simplesmente repetir. Se não houver, pergunte de 
+forma genuína. 
+EXEMPLO 
+“Olá, Maria! Tudo bem? Meu nome é Lucas, do Mercado Livre. Vi que você está preocupada porque o pedido 
+está em atraso. Vou verificar agora para entendermos o que aconteceu e como seguir.” 
+ 
+1.2 Exploração 
+•​ Pratique escuta ativa, sem interromper, e reconheça expectativas ou emoções. 
+•​ Faça somente perguntas relevantes para entender o problema e a necessidade do usuário. 
+•​ Antes de orientar, faça uma síntese do que entendeu e peça a confirmação do cliente. 
+EXEMPLO DE SÍNTESE 
+“Maria, para garantir que entendi: o pagamento foi aprovado na terça, mas o rastreio não atualizou e você 
+precisa do produto até sexta. É isso mesmo?” 
+ 
+1.3 Guia e Assessoramento 
+•​ Explique a solução de forma clara, ordenada e sem termos técnicos desnecessários. 
+ 
+
+
+--- Página 4 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+•​ Conecte a orientação ao que foi explorado; não entregue uma resposta genérica. 
+•​ Antecipe dúvidas ou problemas futuros quando houver informação útil. 
+•​ Confirme se o cliente entendeu, retomando o conteúdo específico. 
+EXEMPLO 
+“Já acionei a transportadora e o prazo final é sexta. Também ativei as notificações para você acompanhar pelo 
+app. Antes de seguirmos, ficou alguma dúvida sobre esse prazo ou sobre o acompanhamento?” 
+ 
+1.4 Encerramento 
+•​ Conecte a despedida ao que realmente foi tratado no contato. 
+•​ Quando não houver resolução, reconheça a frustração sem afirmar que algo foi resolvido. 
+•​ Retome o próximo passo, o prazo aplicável e permaneça disponível de forma coerente. 
+EXEMPLO 
+“Fico feliz que conseguimos atualizar o endereço e confirmar o acompanhamento da entrega, Maria. Se precisar 
+de mais alguma ajuda, sigo à disposição. Tenha um ótimo dia!” 
+ 
+ 
+ 
+
+
+--- Página 5 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+1.5 Checklist rápido - Guia de Atendimento da Mari 
+Use as perguntas como uma revisão mental. Nem todo contato permitirá seguir cada item exatamente; o 
+importante é preservar a lógica por trás das quatro fases. 
+Boas-vindas 
+☐​Eu me apresentei e identifiquei corretamente o usuário e a marca? 
+☐​Usei o contexto disponível sem simplesmente repeti-lo? 
+☐​Criei conexão e demonstrei disponibilidade genuína? 
+☐​Dei espaço para o usuário responder? 
+Exploração 
+☐​Escutei sem interromper e reconheci expectativa ou emoção? 
+☐​Fiz apenas perguntas relevantes e necessárias? 
+☐​Entendi não só o problema, mas a necessidade do usuário? 
+☐​Fiz uma síntese e validei se compreendi corretamente? 
+Guia e Assessoramento 
+☐​Expliquei em ordem e com linguagem adequada? 
+☐​A orientação nasceu do que eu explorei? 
+☐​Antecipei uma possível dúvida ou problema futuro? 
+☐​Confirmei o entendimento retomando o conteúdo específico? 
+Encerramento 
+☐​Reconheci o resultado real do atendimento? 
+☐​Retomei detalhes do que foi explicado, oferecido ou recomendado? 
+☐​Evitei prometer ou afirmar uma resolução que não ocorreu? 
+☐​Deixei disponibilidade de forma coerente? 
+ 
+
+
+--- Página 6 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+2. Registro - Pessoa Física e Pessoa Jurídica 
+Voltar ao índice 
+MÓDULO 02 
+REGISTRO 
+Antes de orientar, confirme onde o usuário quer se registrar, se já possui cadastro e se tem os 
+documentos necessários. 
+LOCALIZE RÁPIDO 
+Palavras-chave: PF • PJ • Mercado Livre • Mercado Pago • CPF • CNPJ • selfie 
+ 
+2.1 Perguntas que organizam o atendimento 
+1.​ Onde o usuário quer se registrar: Mercado Livre ou Mercado Pago? 
+2.​ Ele já teve algum cadastro? Existe outro e-mail que possa estar associado? 
+3.​ No Mercado Pago, o usuário está com o documento de identidade? Se for empresa, também 
+possui o documento da empresa e do representante? 
+PRINCÍPIO FUNDAMENTAL 
+Mercado Livre não é Mercado Pago. Criar uma conta no Mercado Livre não ativa automaticamente a conta 
+financeira. O mesmo e-mail e a mesma senha podem ser usados para acessar o Mercado Pago, mas o app 
+solicitará validações adicionais antes de liberar as funções financeiras. 
+ 
+2.2 Fricções comuns 
+DOCUMENTO 
+RECUSADO 
+Confira se a imagem está borrada, com reflexo, cortada ou se o documento está vencido. 
+ 
+SELFIE FALHOU 
+Oriente ambiente bem iluminado, rosto neutro, lente limpa e, se necessário, outro 
+dispositivo compatível. 
+ 
+IDENTIFICAÇÃO 
+Confirme primeiro PF ou PJ e a plataforma de acesso - ML ou MP - antes de detalhar os 
+passos. 
+ 
+ 
+
+
+--- Página 7 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+2.3 Pessoa Física - PF 
+Documento principal: CPF. Para validar a identidade no Brasil, são aceitos CNH física ou digital, RG 
+exclusivamente físico, RNE ou CNRM para estrangeiros. 
+Mercado Livre - compras e vendas 
+Mercado Pago - conta financeira 
+E-mail 
+Dados básicos: e-mail, CPF, telefone e senha 
+Número do documento de identidade 
+Foto ou scan do documento de identidade 
+Número de telefone 
+Selfie de confirmação - prova de vida 
+Criação de senha 
+Ocupação, renda mensal e nacionalidade 
+ 
+2.4 Pessoa Jurídica - PJ 
+O cadastro é semelhante ao de PF, mas exige o documento da empresa e o documento do representante 
+legal: CNH, RG, RNE ou CNRM em nome do responsável. 
+Mercado Livre - anúncios, loja e compras 
+Mercado Pago - pagamentos e recebimentos 
+E-mail 
+Dados da empresa: CNPJ, e-mail, telefone e senha 
+Número do CNPJ 
+Foto do documento do representante legal 
+Nome do representante legal 
+Selfie do representante legal 
+Telefone e criação de senha 
+Segmento de atuação e faturamento mensal 
+ 
+ 
+Resumo visual mantido do material de Registro: principais diferenças entre PF e PJ. 
+ 
+
+
+--- Página 8 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+3. Configuração de Conta - dados e titularidade 
+Voltar ao índice 
+MÓDULO 03 
+CONFIGURAÇÃO DE CONTA 
+Gerencie correções cadastrais e mudanças de titularidade sem misturar os dois processos. 
+LOCALIZE RÁPIDO 
+Palavras-chave: nome social • CPF • CNPJ • etiquetas • CDT • ADT • Autogestão 
+ 
+Processo 
+O que significa 
+Modificação de dados 
+Alterar ou corrigir informações sem mudar a titularidade legal original. 
+Mudança de Titularidade - CDT/ADT 
+Transferir formalmente a propriedade da conta para outra pessoa ou empresa 
+quando o fluxo permitir. 
+ 
+AUTOGESTÃO É A REGRA 
+O sistema prioriza a resolução pelo aplicativo ou site. O atendimento orienta e só intervém quando existe um 
+impedimento que bloqueia a conclusão direta. 
+ 
+3.1 Modificação de dados - Pessoa Física 
+NOME E SOBRENOME 
+Devem ser idênticos ao registro da Receita Federal. Não há edição manual; a atualização 
+ocorre pela sincronização com a base do SERPRO. 
+ 
+CPF 
+Só pode ser corrigido quando houve erro de digitação no cadastro original. Não é permitido 
+substituir o CPF pelo de outra pessoa. 
+ 
+NOME SOCIAL 
+Pode ser atualizado no perfil desde que já conste na Receita Federal. Segue o mesmo 
+caminho de sincronização do nome. 
+ 
+NOME PREFERIDO 
+É o nome exibido no perfil. Pode ser ajustado se não contiver marca de terceiros, números ou 
+termos ofensivos. 
+ 
+ 
+
+
+--- Página 9 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+ENDEREÇO DE 
+ENTREGA 
+A alteração vale para compras futuras e não modifica pedidos ou entregas em andamento. 
+ 
+Como orientar nome e nome social 
+1.​ O usuário deve regularizar primeiro a informação na Receita Federal. 
+2.​ No aplicativo: Perfil > Informações do perfil > nome em Informações pessoais > Corrigir nome e/ou 
+sobrenome > Sincronizar dados com o CPF. 
+3.​ Se a correção já foi solicitada no app e não funcionou, abra a tarefa de correção de dados. 
+Onde cada nome aparece 
+Local 
+Qual nome aparece ou onde alterar 
+Comprovante Pix 
+O nome que consta na Receita Federal. Não há alteração manual se os dados já estiverem 
+corretos. 
+Etiqueta de compras 
+Nome configurado em Endereços no Mercado Livre. 
+Etiqueta de vendas 
+Nome de preferência. Use o fluxo específico de nome preferido. 
+Nome da loja no Mercado Livre 
+Vendas > Minha Página > Personalizar. Em Cabeçalho, edite logotipo, banner e nome da 
+página. Este tema não é tratado por Security. 
+ 
+Atalhos: alterar nome preferido  
+ 
+Imagem original mantida: mapa de alteração de nomes, etiquetas, comprovante Pix e loja. 
+ 
+
+
+--- Página 10 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+3.2 Modificação de dados - Pessoa Jurídica 
+CNPJ 
+Não pode ser alterado. Para utilizar outro CNPJ, é necessário criar uma nova conta. 
+ 
+RAZÃO SOCIAL 
+Confira se o “Nome legal” no sistema está desatualizado. Se estiver, oriente a correção no 
+app; se o fluxo não funcionar, abra a tarefa de correção de dados. 
+ 
+Restrições gerais para alteração de dados 
+•​ Criptomoedas ativas no perfil. 
+•​ Titular menor de idade. 
+•​ Documento associado a atividades proibidas pelas políticas da plataforma. 
+ 
+Sempre checar se há impeditivos para verificar se será possível ou não seguir com a mudança. 
+3.3 Mudança de Titularidade - CDT/ADT 
+É a transferência formal da propriedade da conta, substituindo os dados cadastrais da origem pelos 
+dados do destino. 
+Tipo 
+Permitido? 
+Requisitos e regras 
+PF > PF 
+Não 
+Restrição legal e de segurança. A outra pessoa deve criar uma nova conta. 
+PJ > PF 
+Não 
+Fluxo indisponível. 
+PF > PJ 
+Sim 
+Exige vínculo comprovado com a empresa, como sócio ou funcionário. 
+PJ > PJ 
+Sim 
+Exige pertencimento ao mesmo quadro societário. 
+ 
+REGRA ADICIONAL PARA PJ > PJ 
+O CNPJ atual e o novo CNPJ precisam estar ativos. O novo CNPJ deve manter o mesmo quadro societário ou 
+incluir novo(s) sócio(s) conforme o fluxo; caso contrário, a alteração não funcionará. 
+ 
+Impedimentos e restrições para CDT/ADT 
+•​ Status KYC inferior a Verified ou Regulated. 
+•​ Restrições sinalizadas por cartão amarelo ou vermelho. 
+•​ Empréstimos, dívidas ou faturas pendentes. 
+•​ Investimentos ou saldos com rendimento ativos, como CDB, criptomoedas ou valores embargados. 
+•​ Estoque ativo no Fulfillment ou produtos em trânsito no Mercado Envios. 
+ 
+
+
+--- Página 11 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+•​ Seguros ou aplicações ativas com a seguradora parceira. 
+•​ Benefícios corporativos, portabilidade salarial ou bloqueios regulatórios BACEN/CERC. 
+•​ Cartão de crédito da conta vinculado a pagamentos no app. 
+•​ Histórico de CDT/ADT realizado há menos de 12 meses. 
+Sempre que houver algum impeditivo para ADT, será apresentado na área de “Atualizar Perfil”, em 
+“MDT”, exemplo:​
+ 
+Status de validação - KYC 
+Status 
+Entenda assim 
+Unknown 
+Nome e sobrenome declarados, sem documento associado ou validação. 
+Declared 
+Nome, sobrenome e CPF informados, sem foto de documento ou selfie. 
+Verified 
+Validação de identidade concluída com documento e selfie. 
+Regulated 
+Verified com validações complementares aprovadas para produtos financeiros regulados. 
+ 
+ 
+
+
+--- Página 12 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+ 
+Resumo visual original mantido: dados, titularidade, permissões e impeditivos. 
+ 
+
+
+--- Página 13 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+4. KYC - validações e documentos 
+Voltar ao índice 
+MÓDULO 04 
+KYC NA PRÁTICA 
+KYC reúne validações para confirmar informações de pessoas e empresas: identidade, endereço, 
+renda, CNPJ, sócios e representante legal. 
+LOCALIZE RÁPIDO 
+Palavras-chave: challenge • pack • Checker • Compliant • CNPJ • representante legal • 24h 
+ 
+4.1 Conceitos essenciais 
+Termo 
+Na prática 
+Challenge 
+Tarefa específica: documento, selfie, comprovante ou dado da empresa. 
+Pack 
+Conjunto de challenges com um objetivo: Declarado, Verificado/IV, Regulado, Ampliado/AML ou 
+Fiscal. 
+Iniciativa 
+Motivo da solicitação: registro, atualização regulatória, Pix, crédito ou outro produto. 
+ 
+REGRA DO PACK 
+Um pack só fica Compliant quando todos os challenges necessários estiverem concluídos. 
+ 
+4.2 Como seguir no CX One 
+1.​ Abra a Vista Simplificada de KYC, exibida na lateral direita dos casos relacionados ao tema. 
+2.​ Confirme se a conta é PF ou PJ. 
+3.​ Identifique exatamente qual challenge está pendente e seu status. 
+4.​ Se houve carga ou recusa, consulte o arquivo e o comentário no Checker antes de orientar. 
+5.​ Explique o que falta, como corrigir, onde enviar e qual prazo esperar. 
+SEM DOCUMENTO CARREGADO 
+Use Solicitar Informação para gerar o link no chat e orientar o envio. 
+ 
+ 
+
+
+--- Página 14 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+Status e próxima ação 
+Status 
+O que significa 
+O que fazer 
+Pendente - sem carga 
+O usuário ainda não enviou a 
+documentação. 
+Use Solicitar Informação e oriente o envio. 
+Pendente - recusado 
+A análise terminou em recusa. 
+Consulte o Checker, explique o motivo e oriente a correção 
+específica. 
+Em Revisão 
+Documentação em análise manual. 
+Informe prazo de até 24 horas. Não prometa aprovação 
+nem aceleração dentro do SLA. 
+Compliant 
+Informação aprovada. 
+Nenhuma ação de KYC é necessária para esse challenge. 
+ 
+SLA DE REVISÃO 
+A revisão manual pode levar até 24 horas. Acima desse prazo, crie a tarefa de SLA Excedido. Se já existir tarefa 
+pelo mesmo motivo, confirme com a liderança antes de escalar. 
+ 
+Link da plan com todos os desafios:​
+ 
+Nova Master Blaster 2025
+4.3 Validação de identidade no Brasil 
+Scan ID - documentos aceitos 
+•​ RG físico. 
+•​ CNH física ou digital. 
+•​ RNE ou CNRM para estrangeiros. 
+DOCUMENTO FORA DA LISTA 
+Confirme a aceitação no controle OPL conforme o país e o challenge. Para o fluxo brasileiro descrito neste guia, 
+passaporte não está entre os documentos aceitos. 
+ 
+Prova de vida - reconhecimento facial 
+Quando a tela pedir “movimentos ou expressões”, mantenha o rosto imóvel, não sorria, não abra a boca 
+e permaneça dentro da oval. 
+CÂMERA DANIFICADA 
+Use outro dispositivo com câmera funcional, faça login e conclua o processo completo. 
+ 
+DOCUMENTO JÁ 
+ENVIADO 
+Abra o Checker. Se a evidência já estiver disponível, não peça o mesmo arquivo novamente. 
+ 
+ 
+
+
+--- Página 15 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+DOCUMENTO 
+RECUSADO 
+Traduza o motivo do Checker em linguagem simples e oriente o reenvio corrigido. 
+ 
+PARECE CORRETO 
+Confira validade, legibilidade e CPF. Se estiver correto e o fluxo continuar falhando, abra 
+tarefa de carga manual para o BackOffice. 
+ 
+4.4 Comprovantes 
+Comprovante de residência 
+•​ Conta de luz, água ou gás dos últimos 3 meses. 
+•​ Fatura de cartão ou IPTU dos últimos 3 meses. 
+•​ Contrato de aluguel vigente. 
+•​ Documento legível, completo e no nome do titular. 
+Comprovante de renda 
+Consulte o Assistente das Guias de BO no NotebookLM, pois documentos e requisitos podem mudar. Se 
+houve recusa, verifique no Checker qual período ou informação está faltando. Nunca presuma quais 
+documentos se aplicam. 
+4.5 Documentos aceitos para validar CNPJs 
+Primeiro identifique a natureza da organização; depois confirme a documentação aplicável. Em validação 
+de representante legal, anexe também a identidade de quem representará a empresa. 
+Tipo de CNPJ ou organização 
+Documento da empresa 
+LTDA 
+Contrato social ou certidão simplificada/completa. 
+MEI 
+CCMEI - Certificado de Condição de Microempreendedor Individual. 
+ME 
+Requerimento de empresário, certidão simplificada/completa ou contrato social. 
+S.A., escola, ONG ou associação 
+Ata e estatuto social. 
+Instituição evangélica ou religiosa 
+Estatuto e ata de eleição. 
+Instituição católica 
+Cânon ou documento equivalente à ata que dê ao representante o direito de 
+administrar o CNPJ. 
+Filial 
+Cartão CNPJ da filial e documentos aplicáveis ao tipo de CNPJ da matriz. 
+Condomínio 
+Convenção e ata. 
+ 
+ 
+
+
+--- Página 16 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+4.6 Representante legal 
+•​ Anexe o documento da empresa e a identidade do representante. 
+•​ Se a pessoa não for responsável, se for sócio sem poderes individuais ou se a documentação exigir 
+assinatura conjunta, poderá ser necessária uma procuração. 
+•​ A procuração deve conceder poderes irrestritos e ilimitados para administrar e movimentar as 
+contas do Mercado Livre e Mercado Pago. Não mandamos modelos! 
+Assinatura: Assinador ITI / Gov.br 
+Troca de representante legal - Blanqueo de Rep Legal 
+1.​ Crie uma tarefa para o BackOffice eliminar os dados do representante atual. 
+2.​ Solicite e anexe o documento da empresa conforme a tabela acima e siga o FA. 
+3.​ Em até 24 horas, o BackOffice atualiza o contato e envia o link para o novo representante cadastrar 
+facial, documento da empresa e identidade. 
+4.​ Use procuração somente quando a pessoa a ser cadastrada não tiver poderes de representação na 
+documentação original. 
+4.7 Casos frequentes 
+ 
+Imagem original mantida: user_blocker_challenge e KYC Bloqueado são diagnósticos diferentes. 
+Situação 
+Ação recomendada 
+user_blocker_challenge 
+Costuma indicar várias tentativas no mesmo challenge. Se a documentação estiver correta, 
+renomeie os arquivos; se persistir, siga a validação manual pelo BackOffice. 
+ 
+
+
+--- Página 17 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+Situação 
+Ação recomendada 
+KYC Bloqueado 
+Pode envolver suspeita de ITO - prova de vida diferente do documento - ou alto risco por 
+contas associadas. Confirme o motivo na Vista Simplificada e siga a remediação. 
+Restrição com Autoremedy 
+Confirme a iniciativa pendente. Quando todos os challenges ficarem Compliant, a restrição 
+é retirada automaticamente. 
+Revisão dentro de 24h 
+Informe Em Revisão e aguarde o SLA. Não abra prioridade nem peça novo envio apenas por 
+haver restrição. 
+Revisão acima de 24h 
+Crie tarefa de SLA Excedido e confirme com a liderança se já houver tarefa anterior. 
+Challenge desconhecido 
+Consulte o Assistente das Guias de BO / NotebookLM. Não presuma documentos ou regras. 
+Documento já carregado 
+Revise primeiro no Checker e evite solicitar novamente. 
+ 
+ 
+Imagem original mantida: exemplo de challenge pendente na consulta do sistema. 
+Um challenge pode atender várias iniciativas 
+Quando iniciativas diferentes exigem exatamente o mesmo challenge, a aprovação é reconhecida nas 
+demais. Não é necessário reenviar o mesmo documento para cada iniciativa. 
+Arquivo acima do limite da tarefa 
+O limite informado no material é 5 MB por arquivo. Se o documento exceder esse tamanho, use: 
+DIMINUIR PDF 
+Link da plan com todos os desafios:​
+​
+Nova Master Blaster 2025
+​
+ 
+ 
+
+
+--- Página 18 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+5. PAF - Problemas de Acesso e Fatores 
+Voltar ao índice 
+MÓDULO 05 
+PAF SEM COMPLICAÇÃO 
+PAF trata das dificuldades para entrar na conta ou passar por verificações de segurança, sempre com 
+foco em confirmar a titularidade. 
+LOCALIZE RÁPIDO 
+Palavras-chave: Login • Fatores • Screenlock • Reauth • Recovery • QR Token • FACE OFF 
+ 
+5.1 Cinco nomes, uma ideia para cada um 
+Nome 
+Em palavras simples 
+Quando aparece 
+Login 
+Encontrar conta 
+O cliente informa os dados (CPF, e-mail ou telefone) 
+Fatores 
+Confirmar a identidade. 
+O sistema pede código, senha, facial do MP ou outro método. 
+Screenlock 
+Desbloquear o app pelo celular. 
+Usa Face ID, digital, PIN, padrão ou senha do dispositivo. 
+Reauth 
+Confirmar a identidade novamente. 
+O cliente já entrou, mas precisa confirmar uma operação ou 
+alteração. 
+Recovery 
+Recuperar o acesso. 
+O cliente não consegue usar os métodos disponíveis. 
+ 
+Primeiro, localize a conta 
+BUSCA INICIAL 
+Use CPF ou e-mail no CXOne. Só avance para recuperação depois de identificar a conta. 
+ 
+1.​ Descubra onde o cliente parou: ao entrar, desbloquear o app ou confirmar uma ação? 
+2.​ Identifique o que a tela pede e se existe mensagem de erro. 
+3.​ Confira fatores ativos e histórico de Recovery. Priorize um método que a pessoa ainda consiga usar. 
+5.2 Facial do Mercado Pago não é Face ID 
+Compare 
+Facial do Mercado Pago 
+Face ID ou biometria do celular 
+Finalidade 
+Confirmar a identidade da conta. 
+Desbloquear a tela inicial do app. 
+ 
+
+
+--- Página 19 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+Compare 
+Facial do Mercado Pago 
+Face ID ou biometria do celular 
+Onde fica 
+No Mercado Pago. 
+Nas configurações do aparelho. 
+Pode alterar? 
+O usuário não altera nem remove. 
+O usuário ajusta no próprio dispositivo. 
+Se falhar 
+Investigue a causa e siga o diagnóstico. 
+Trate como desbloqueio do aparelho. 
+ 
+PERGUNTA ÚTIL 
+“É o reconhecimento facial pedido pelo Mercado Pago ou o desbloqueio que você usa no celular?” 
+ 
+Fatores e níveis de confiança 
+SOFT 
+E-mail, telefone, senha e Google Authenticator. Os códigos por telefone podem chegar por 
+SMS ou WhatsApp, conforme a opção disponível. 
+ 
+HARD 
+QR Token e reconhecimento facial do Mercado Pago têm o mesmo nível de confiança. O 
+usuário não altera esses fatores. 
+ 
+Para consultar: Mercado Pago > Perfil > Segurança > Métodos de verificação. 
+Informações importantes 
+•​ Senha da conta e senha ou PIN do celular são diferentes. 
+•​ O celular precisa ter pelo menos um método de desbloqueio ativo para acessar o app: Face ID, 
+digital, PIN, padrão ou senha. 
+5.3 Diagnostique antes de recuperar 
+Desbloqueio do app 
+DIGITAL 
+Use o PIN ou padrão já configurado no celular. Esse desbloqueio pertence ao aparelho, não à 
+senha da conta. 
+ 
+FACE ID 
+Mantenha o app atualizado, reinicie o iPhone ou refaça o registro do rosto nos Ajustes. 
+ 
+E-mail - código não chega 
+1.​ Procure a mensagem no spam ou lixo eletrônico. 
+2.​ Confira se o armazenamento do e-mail está cheio. 
+3.​ Solicite um novo código após as conferências. 
+ 
+
+
+--- Página 20 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+4.​ Se nada chegar, consulte o e-mail no SmartOPS. Se o bouncing_status não estiver como ok ou 
+forced_ok, siga a liberação. 
+Acesso interno: SmartOPS - consulta de bloqueio de e-mail 
+ 
+Imagem original mantida: consultar o e-mail e verificar o bouncing_status no SmartOPS. 
+ 
+Imagem original mantida: preencher forced_ok, número do caso e enviar a liberação. 
+SE AINDA NÃO FUNCIONAR 
+Oriente o cliente a selecionar “Não consigo iniciar sessão”. O app ou site abrirá o caminho de troca do e-mail. 
+ 
+Entrada no computador sem câmera 
+O celular pode validar a entrada que ficou parada no computador. Abra o app do Mercado Pago ou 
+Mercado Livre e use o Código QR. Se necessário, habilite em Perfil > Segurança > Métodos de verificação 
+> Código QR. 
+Impedimento físico no reconhecimento facial 
+Depois de descartar falhas de câmera e iluminação, avalie se cirurgia, lesão ou deficiência está 
+impedindo a leitura. 
+ 
+
+
+--- Página 21 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+FACE OFF 
+Crie uma tarefa solicitando a remoção do reconhecimento facial por FACE OFF. Inclua imagem do documento de 
+identidade e selfie conforme o procedimento. 
+ 
+5.4 Como recuperar o acesso 
+Recovery é o caminho quando os fatores não podem ser usados. A conta já deve estar identificada; 
+consulte fatores ativos e solicitações anteriores no CXOne. 
+TELEFONE, E-MAIL OU 
+AUTHENTICATOR 
+Selecione “Não consigo iniciar sessão” e siga o que o sistema pedir. 
+ 
+NENHUM MÉTODO 
+ACESSÍVEL 
+Selecione “Não posso usar nenhum método”. Prepare documento de identidade e ambiente 
+bem iluminado. 
+ 
+FACIAL DO MERCADO 
+PAGO 
+Selecione “Tentar novamente”. Se o erro continuar, clique em “Sou eu, mas não estou sendo 
+reconhecido”. 
+ 
+PRAZO CONSOLIDADO 
+A validação e a análise do pedido de liberação podem ser imediatas ou levar até 24 horas. Enquanto estiver em 
+análise, aparece “Em revisão”. Informe o prazo e não prometa aprovação. 
+ 
+O que cada status quer dizer 
+Status 
+Entenda assim 
+Em revisão 
+O pedido ainda está sendo analisado; não há resultado. 
+Aprovado 
+O acesso foi liberado. O cliente pode entrar sem que aquele fator seja solicitado novamente e recebe 
+uma notificação. 
+Recusado 
+O sistema identificou que o solicitante não é o titular ou que o documento está defeituoso, ilegível ou 
+editado. 
+Cancelado 
+Houve erro técnico ou o cliente conseguiu entrar por conta própria durante a análise. 
+ 
+5.5 O cliente disse... e agora? 
+“Não lembro qual é a minha conta.” 
+•​ Busca direta: CPF ou e-mail no CXOne. Outros dados devem seguir as opções do procedimento. 
+ 
+
+
+--- Página 22 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+•​ Comprovante: use o payment ID para localizar a conta que enviou ou recebeu a operação. 
+•​ Contas vinculadas: Vista do usuário > Contas vinculadas. Confirme a titularidade com KYC 
+verificado. 
+Depois das verificações, oriente o login com o e-mail associado. Encontrar a conta não substitui 
+confirmar a identidade. 
+“Entro, mas não consigo confirmar uma ação.” 
+Pode ser Reauth: nova confirmação de identidade para Pix, transferências ou alteração de dados. Veja se 
+a tela pede fator do Mercado Pago, desbloqueio do celular ou ambos. O facial pode ser obrigatório em 
+cenários de risco; não prometa outra opção se ela não aparece. 
+Quando consultar Prevenção à Fraude 
+Problemas de acesso causados por mudança de gênero, KYC desconhecido ou usuário estrangeiro 
+podem exigir avaliação excepcional, como remoção do reconhecimento facial. Siga o fluxo corretamente, 
+consulte os critérios e encaminhe à Prevenção à Fraude quando aplicável, com a documentação exigida. 
+ANTES DE ENCERRAR 
+O cliente precisa saber o que fazer agora, onde fazer e qual prazo se aplica. 
+ 
+ 
+
+
+--- Página 23 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+6. Relações entre contas 
+Voltar ao índice 
+MÓDULO 06 
+Relações entre contas 
+Hoje, existem três tipos de relações que compõem esse processo! Identifique o vínculo antes de 
+orientar: menor de idade, colaborador ou pessoa de confiança. 
+LOCALIZE RÁPIDO 
+Palavras-chave: menor • responsável • controle parental • colaborador • permissões • pessoa de confiança 
+ 
+ESPAÇO RESERVADO 
+Cada relação tem objetivo, permissões e tratamento próprios. Primeiro confirme quem entrou em contato e qual 
+conta está sendo consultada; depois verifique o vínculo no CX One. 
+ 
+6.1 Os três tipos de relação 
+Relação 
+Para que serve 
+Ponto principal 
+Menor de idade 
+Permitir o uso da conta por pessoas elegíveis 
+que ainda não completaram 18 anos. 
+Exige CPF e autorização de um adulto 
+responsável. 
+Colaborador 
+Dar acesso de trabalho à conta de um vendedor 
+sem compartilhar credenciais. 
+A conta-mãe define funções e permissões. 
+Pessoa de confiança 
+Permitir que terceiros reportem perda ou roubo 
+do dispositivo do titular. 
+Até 5 adultos com conta PF podem ser 
+indicados. 
+ 
+Antes de avançar 
+-  Confirme se o contato é do titular, do adulto responsável, do colaborador ou da conta-mãe. 
+- Abra o vínculo correspondente no CX One e verifique status, conta associada e permissões. 
+- Explique somente o fluxo daquela relação e finalize com o próximo passo concreto.​
+​
+6.2 Menores de idade 
+No Brasil, menores entre 6 a 17 anos com CPF podem ter uma conta no Mercado Pago, desde que haja a 
+autorização de um adulto responsável - pai, mãe ou tutor legal - com conta no Mercado Pago. 
+ 
+
+
+--- Página 24 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+CPF VEM PRIMEIRO​
+Antes de detalhar o processo, confirme se o menor possui CPF. Sem esse documento, não é possível concluir a 
+criação da conta no Brasil. 
+ 
+Como a conta é habilitada 
+1.​ O menor informa e-mail e CPF, digitaliza o documento e conclui a prova de vida. 
+2.​ O menor envia a solicitação ao adulto responsável. No Brasil, também pode usar a autorização no 
+mesmo dispositivo, pela opção de tela dividida. 
+3.​ O adulto recebe a solicitação por e-mail ou notificação. Se necessário, valida a própria identidade 
+antes de aprovar. 
+4.​ Após a aprovação, o perfil restritivo é aplicado e a conta fica disponível com as funções permitidas 
+para a idade. 
+VALIDAÇÃO DO VÍNCULO​
+O sistema compara as informações do documento do menor com os dados do adulto. Se o vínculo parental ou 
+a representação legal não puder ser confirmado, a autorização pode não avançar. 
+ 
+O que o menor pode ou não fazer 
+Pode usar 
+Não pode usar 
+Transferir e solicitar dinheiro 
+Receber pagamentos como vendedor 
+Cartão pré-pago, conforme disponibilidade 
+Investimentos 
+Pagar com Código QR 
+Mercado Crédito 
+Recarregar celular e transporte 
+Vender no Mercado Livre 
+Comprar em categorias permitidas 
+Comprar produtos destinados a maiores de 18 anos 
+ 
+Controle parental 
+Pela própria conta, o responsável pode acompanhar saldo e movimentações, receber notificações e pausar ou 
+despausar a conta do menor. A ativação do controle parental pode levar até 24 horas úteis após a vinculação. 
+CONTA PAUSADA 
+O menor continua usando o Mercado Livre, mas não opera no Mercado Pago. 
+Somente o responsável pode retirar a pausa; o atendimento não faz essa alteração 
+no CX One. 
+ 
+ 
+
+
+--- Página 25 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+6.3 Como verificar menores no CX One 
+Caminho: Dados do usuário > Restrições > Perfis restritivos. 
+Perfil ou indicação 
+Entenda assim 
+Orientação 
+Menor em processo de 
+cadastro 
+A conta aguarda a aprovação do 
+adulto. 
+A conta ainda não pode operar. Oriente a conclusão 
+da autorização. 
+Menor habilitado 
+A autorização foi concluída. 
+Explique as funções disponíveis e não realize 
+Mudança de Titularidade. 
+Habilitado com saldo 
+congelado 
+O responsável pausou a conta. 
+Oriente o responsável a despausar pelo Controle 
+parental. 
+Menor bloqueado sem 
+responsável 
+O vínculo anterior foi encerrado e 
+não há novo responsável. 
+O menor precisa convidar outro adulto elegível. 
+Menor não habilitado 
+A conta não atende à regra de 
+habilitação. 
+Não tente remover o perfil. Oriente conforme a 
+mensagem exibida no sistema. 
+ 
+ATENÇÃO​
+Se o CX One indicar que o usuário é menor ou responsável por um menor, não realize Mudança de Titularidade 
+nem tente remover manualmente o perfil restritivo. 
+ 
+Como o vínculo aparece 
+ 
+Exemplo: conta de menor com adulto responsável associado. 
+ 
+
+
+--- Página 26 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+ 
+Exemplo: conta do adulto identificada como responsável por menores. 
+6.4 Fricções frequentes com menores 
+AUTORIZAÇÃO NÃO CHEGA 
+Confirme o e-mail informado pelo menor; peça ao adulto que confira entrada e 
+spam; verifique se há notificação no app e se a identidade do adulto está validada. 
+No Brasil, lembre também da autorização no mesmo dispositivo. 
+ 
+DÚVIDA ANTES DO 
+CADASTRO 
+Confirme CPF e elegibilidade; explique documento e prova de vida do menor, 
+autorização do adulto, funções disponíveis e Controle parental. 
+ 
+PAUSAR OU DESPAUSAR 
+A ação pertence ao adulto responsável e deve ser feita no Controle parental. O 
+atendimento apenas explica o caminho e o efeito da pausa. 
+ 
+SEM RESPONSÁVEL 
+Se o perfil indicar bloqueio sem responsável, oriente o menor a enviar uma nova 
+solicitação a outro adulto elegível. Não remova a restrição manualmente. 
+ 
+Quando o menor completa 18 anos 
+O usuário recebe uma campanha para aceitar os Termos e Condições do Mercado Pago. O prazo informado no 
+material é de 30 dias. Ao aceitar, o vínculo com o responsável é encerrado e as funções de adulto são 
+liberadas. Sem a aceitação no prazo, a conta pode ser bloqueada. 
+ANTES DE ENCERRAR​
+Confirme que a família entendeu quem deve agir, em qual conta ou dispositivo, o que precisa validar e qual 
+resultado esperar depois da autorização. 
+ 
+ 
+
+
+--- Página 27 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+6.5 Colaboradores 
+A conta-mãe permite que pessoas da equipe trabalhem na conta do vendedor com acesso próprio. O 
+vendedor mantém o controle das funções e não compartilha a própria senha. 
+DISPONIBILIDADE​
+A ferramenta está disponível para contas PJ e para algumas contas PF elegíveis, sempre com KYC verificado. 
+ 
+Conceitos essenciais 
+COLABORADOR 
+Pessoa convidada para atuar na conta-mãe com as permissões definidas pelo 
+vendedor. 
+ 
+PERMISSÃO 
+Autorização para executar uma tarefa específica, como cobrar, faturar ou consultar 
+relatórios. 
+ 
+FUNÇÃO OU PAPEL 
+Conjunto de permissões atribuídas a quem exerce atividades semelhantes. 
+ 
+Dois modelos de colaborador 
+Modelo 
+Quando é usado 
+O que acontece 
+Multiconta 
+O convite usa um e-mail já associado a uma 
+conta pessoal do ecossistema MELI, PF ou 
+PJ. 
+A pessoa aceita o convite e usa o login que já 
+possui, sem criar uma nova conta de colaborador. 
+Dedicado 
+O convite usa um e-mail sem conta pessoal 
+associada, normalmente corporativo. 
+A pessoa conclui o registro de uma conta 
+exclusiva, vinculada à conta-mãe. 
+Dedicado Protegido 
+O papel ou as permissões exigem uma 
+proteção adicional. 
+O sistema solicita verificação de identidade antes 
+de liberar o acesso. 
+ 
+PAPÉIS SUGERIDOS​
+Na experiência atual, o convite pode sugerir Caixa, Gestor de vendas, Responsável por cobranças ou 
+Administrador da conta. O vendedor pode revisar e editar o papel antes de enviar. 
+ 
+ 
+
+
+--- Página 28 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+6.6 Convite e permissões de colaboradores 
+Como convidar 
+1.​ Acesse Colaboradores: no Mercado Pago, por Seu Negócio; no Mercado Livre, por Vendas > 
+Preferências de vendas. Em contas PF elegíveis, use Perfil > Colaboradores. 
+2.​ Informe o e-mail. O vínculo prévio desse e-mail com o ecossistema define se o colaborador será 
+Multiconta ou Dedicado. 
+3.​ Escolha um papel sugerido ou ajuste as permissões necessárias. 
+4.​ Revise o papel e as lojas vinculadas e envie o convite. 
+5.​ O convite é válido por 7 dias. Se vencer, a conta-mãe pode reenviá-lo. 
+Como verificar no CX One 
+Caminho: Detalhes do usuário > Colaboradores. Consulte nome do negócio, lista de colaboradores, e-mail e 
+status. Em Ver Detalhes, confira as permissões da pessoa que entrou em contato. 
+SEM PERMISSÃO 
+A mensagem 'Você não tem as permissões necessárias' geralmente não é falha 
+técnica. Confirme a permissão no CX One; se estiver ausente, a conta-mãe deve 
+ajustar o papel. 
+ 
+CONVITE VENCIDO 
+Se passaram mais de 7 dias sem aceite, oriente a conta-mãe a reenviar o convite. 
+ 
+ERRO TÉCNICO 
+Depois de validar elegibilidade, status e permissões, reúna capturas do erro passo a 
+passo e o e-mail do colaborador afetado. Confirme com a liderança antes de 
+direcionar para IM. 
+ 
+Consulta interna: matriz de permissões de colaboradores 
+LIMITE DE ACESSO​
+Na área de trabalho como colaborador, ficam bloqueadas as funções que não foram concedidas pela 
+conta-mãe. Valide permissões antes de tratar a tela como erro. 
+ 
+ 
+
+
+--- Página 29 ---
+CAPACITAÇÃO - SECURITY  |  GUIA DE APOIO 
+6.7 Pessoas de confiança 
+É um recurso de segurança. O titular pode indicar até 5 pessoas adultas, com conta PF, para reportar perda ou 
+roubo do dispositivo diretamente das próprias contas. 
+O que acontece após o reporte 
+1.​ Todas as sessões ativas da conta são encerradas. 
+2.​ Os dispositivos registrados são desvinculados. 
+3.​ O titular recebe um e-mail informando o reporte. 
+4.​ Para entrar novamente, o titular precisa concluir o reconhecimento facial. 
+PARA O ATENDIMENTO​
+Os contatos mais comuns são do titular que perdeu o acesso após o reporte ou de quem quer adicionar ou 
+remover uma pessoa de confiança. A gestão é informativa: explique o efeito de segurança e oriente o 
+reconhecimento facial quando necessário. 
+ 
+6.8 Checklist rápido 
+☐​Identifiquei corretamente o tipo de relação e quem entrou em contato. 
+☐​Verifiquei no CX One a conta associada, o perfil restritivo ou as permissões. 
+☐​Em caso de menor, confirmei CPF, autorização do adulto e o status do vínculo. 
+☐​Não realizei Mudança de Titularidade nem removi restrições ligadas ao vínculo de menor. 
+☐​Em caso de colaborador, diferenciei falta de permissão, convite vencido e erro técnico. 
+☐​Em caso de pessoa de confiança, expliquei que o reporte encerra sessões e exige facial no novo acesso. 
+☐​Encerrei informando quem deve agir, onde fazer e qual resultado esperar. 
+RESUMO DO MÓDULO​
+Menor de idade exige autorização e controle do responsável; colaborador exige função e permissão; pessoa de 
+confiança atua somente na proteção do acesso. O vínculo correto define toda a orientação. 
+ 
+ 
+ 
+ 
+
+
