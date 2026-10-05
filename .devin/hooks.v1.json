@@ -1,0 +1,14 @@
+{
+  "PreToolUse": [
+    {
+      "matcher": ".*",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"$DEVIN_PROJECT_DIR/.devin/hooks/check-scope.ps1\"",
+          "timeout": 10
+        }
+      ]
+    }
+  ]
+}
